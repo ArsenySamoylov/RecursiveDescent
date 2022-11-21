@@ -1,0 +1,92 @@
+Tue Nov 22 02:45:01 2022
+
+main::
+  {
+  	num_lines: 2
+  BufferCtor::
+    {
+
+    return 0; - Success (BufferCtor:298)
+    }
+
+  	tests[i]: "sin(x)"
+  	tests[i+1]: "#-120"
+  GetG::
+    {
+    GetE::
+      {
+      GetT::
+        {
+        GetPower::
+          {
+          GetP::
+            {
+            GetE::
+              {
+              GetT::
+                {
+                GetPower::
+                  {
+                  GetP::
+                    {
+                    GetE::
+                      {
+                      GetT::
+                        {
+                        GetPower::
+                          {
+                          GetP::
+                            {
+                            }
+
+                          Resulting val: 120
+                          }
+
+                        	val: 120
+                        	buf->str: ")"
+                        Resulting val: 120
+                        }
+
+                      	val: 120
+                      	val: 120
+                      }
+
+                    	val: 120
+                    }
+
+                  Resulting val: 120
+                  }
+
+                	val: 120
+                	buf->str: ""
+                Resulting val: 120
+                }
+
+              	val: 120
+              	val: 120
+              }
+
+            }
+
+          Resulting val: -120
+          }
+
+        	val: -120
+        	buf->str: ""
+        Resulting val: -120
+        }
+
+      	val: -120
+      	val: -120
+      }
+
+    	val: -120
+    }
+
+  	result: -120
+  TESTING ENDED SUCCESFULLY
+  }
+
+*********************************************************************
+		Log Successfuly ended, on Tue Nov 22 02:45:01 2022
+*********************************************************************

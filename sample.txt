@@ -1,0 +1,24 @@
+123 - (200 + 3*10) / 10 + 1
+#101
+10
+#10
+123-230/10+2
+#102
+2^4
+#16
+2^(1+3)
+#16
+sin
+#0 - this is error check this case later
+sin4
+#-4  - works like sin(4)
+sin(1+20)
+#-21
+sin 6
+#-6
+x
+#120
+sinx
+#115 // for parser this is variable
+sin(x)
+#-120 // if you write sin x - programm will go in endless cycle somewhere

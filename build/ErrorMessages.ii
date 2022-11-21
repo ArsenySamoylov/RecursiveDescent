@@ -1,0 +1,31 @@
+# 0 "./ATC/Logger/OldandUselles/ErrorMessages.cpp"
+# 1 "/home/arsenyfucker/Cprojects/Recursive descent//"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 0 "<command-line>" 2
+# 1 "./ATC/Logger/OldandUselles/ErrorMessages.cpp"
+
+
+const char* ERROR_MESSAGES[] =
+                  {
+                  "SUCCESS",
+
+                  "Unitialized object",
+                  "Active object",
+                  "Dead object",
+
+                  "Dyrak, no arguments",
+                  "Dyrachok, wrong argument",
+                  "Fool, wrong number of arguments",
+
+                  "Shoot, can't open file!",
+                  "Crap, can't read from file!",
+
+                  "Lox, bad calloc",
+                  "Lox, bad realloc",
+
+                  "Xyligan, NULL pointer",
+                  "Xuy, Null Structure member",
+                  "Syntax error (serious message)",
+                  };
